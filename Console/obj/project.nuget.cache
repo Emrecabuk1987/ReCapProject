@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljCEyjg6NYhWOcZZ+xZDYkWM15JWRUsLUQKsAyKd1DILbQzUTexa7WiIS4iJa8OQT+aOzkFDdI7H/zUd5+8apg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emre\\source\\repos\\ReCapProject\\Console\\Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emre\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Emre\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
